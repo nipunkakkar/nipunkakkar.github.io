@@ -1,0 +1,7 @@
+{
+  "name": "nipuns-games-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight homepage for Nipun’s browser games.",
+  "scripts": { "dev": "node scripts/serve.cjs" }
+}
