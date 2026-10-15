@@ -6,6 +6,7 @@ A small homepage for Nipun’s published browser games.
 
 - **Ludo Ladder:** https://nipunkakkar.github.io/ludo-ladder/ — Ludo and Snakes & Ladders for 2–4 players, with private rooms and same-device play.
 - **Meteor Dodge:** https://nipunkakkar.github.io/meteor-dodge/ — a solo space arcade with keyboard, mouse and touch controls.
+- **Chess Noir:** https://nipunkakkar.github.io/chess-noir/ — two-player chess with private online rooms, same-device play, animated moves and optional clocks.
 
 The homepage contains HTML, CSS and original SVG artwork. It has no runtime JavaScript, dependencies, external fonts, analytics, accounts or build step. Its board previews were generated from the artwork in the Ludo Ladder repository. The space illustration is original vector artwork.
 
