@@ -1,11 +1,11 @@
 const http = require('node:http'), fs = require('node:fs'), path = require('node:path');
 const root = path.resolve(__dirname, '..');
-const types = { '.html':'text/html; charset=utf-8', '.css':'text/css; charset=utf-8', '.svg':'image/svg+xml', '.json':'application/json', '.png':'image/png' };
+const types = { '.html':'text/html; charset=utf-8', '.css':'text/css; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.svg':'image/svg+xml', '.json':'application/json', '.png':'image/png', '.txt':'text/plain; charset=utf-8' };
 http.createServer((request,response) => {
   let pathname;
   try { pathname = decodeURIComponent(new URL(request.url,'http://localhost').pathname); }
   catch { response.writeHead(400); response.end(); return; }
-  const file = path.resolve(root, '.' + (pathname === '/' ? '/index.html' : pathname));
+  const file = path.resolve(root, '.' + (pathname.endsWith('/') ? pathname + 'index.html' : pathname));
   if (!file.startsWith(root + path.sep) || file.includes(path.sep + '.git' + path.sep)) { response.writeHead(403); response.end(); return; }
   fs.readFile(file,(error,bytes) => {
     if (error) { response.writeHead(404); response.end('Not found'); return; }

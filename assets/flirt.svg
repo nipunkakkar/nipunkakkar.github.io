@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440"><defs><radialGradient id="glow"><stop stop-color="#613141" stop-opacity=".5"/><stop offset="1" stop-color="#17151a" stop-opacity="0"/></radialGradient></defs><rect width="720" height="440" fill="#17151a"/><ellipse cx="360" cy="270" rx="310" ry="170" fill="url(#glow)"/><circle cx="360" cy="233" r="151" fill="none" stroke="#6f4055" stroke-dasharray="5 9"/><svg x="130" y="100" width="210" height="260" transform="rotate(-7 235 230)" viewBox="0 0 240 265" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+      <ellipse class="character-shadow" cx="120" cy="251" rx="58" ry="9" fill="#000" opacity=".2"/>
+      <g class="character-body">
+        <path d="M85 172h70l-3 39-5 33h-23l-4-42-4 42H93l-5-33z" fill="#414052" stroke="#201b22" stroke-width="3"/>
+        <path d="M120 183v20m-28-11 13 5m42-5-12 5" fill="none" stroke="#717083" stroke-width="2"/>
+        <path d="M93 240h23v11H82q-2-7 11-11m31 0h23q13 4 11 11h-34z" fill="#302029" stroke="#201b22" stroke-width="3"/>
+        <path d="M82 116q-18 20-20 48l-4 19q-1 11 8 12 9 0 10-12l4-18 13-25m65-24q18 20 20 48l4 19q1 11-8 12-9 0-10-12l-4-18-13-25" fill="#dfa274" stroke="#201b22" stroke-width="3" stroke-linecap="round"/>
+        <path class="shirt" d="M89 105q31-13 62 0l16 30-14 8 3 40q-36 13-72 0l3-40-14-8z" fill="#d7ee7b" stroke="#201b22" stroke-width="3"/>
+        <path d="M108 89v18q12 14 24 0V89" fill="#dfa274" stroke="#201b22" stroke-width="3"/>
+        <path d="M120 139c-16-17-27 6 0 20 27-14 16-37 0-20" fill="#ff668c" stroke="#201b22" stroke-width="2.5"/>
+        <g class="character-head">
+          
+          <ellipse cx="78" cy="65" rx="8" ry="12" fill="#dfa274" stroke="#201b22" stroke-width="3"/>
+          <ellipse cx="162" cy="65" rx="8" ry="12" fill="#dfa274" stroke="#201b22" stroke-width="3"/>
+          <path d="M80 49q0-29 40-29t40 29v23q-3 28-40 34-37-6-40-34z" fill="#dfa274" stroke="#201b22" stroke-width="3"/>
+          <path d="M79 57q-9-32 14-40 16-12 31-4 28-4 35 18 6 11 3 28l-11-20q-23 4-35-12-11 21-37 30z" fill="#30241d" stroke="#201b22" stroke-width="3"/>
+          <path d="M96 90l3 5m7 1 2 5m10-4v5m11-6-2 5m13-11-3 5" stroke="#694336" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+          <path d="M91 51l13-3m32 0 13 3" fill="none" stroke="#30241d" stroke-width="3" stroke-linecap="round"/>
+          <g class="character-eyes"><ellipse cx="99" cy="63" rx="3.5" ry="5" fill="#251c22"/><ellipse cx="141" cy="63" rx="3.5" ry="5" fill="#251c22"/></g>
+          <ellipse cx="90" cy="77" rx="8" ry="4" fill="#ed6379" opacity=".45"/><ellipse cx="150" cy="77" rx="8" ry="4" fill="#ed6379" opacity=".45"/>
+          <path d="M111 85q10 9 21-2" fill="none" stroke="#352129" stroke-width="3" stroke-linecap="round"/>
+          <path d="M120 65l-3 9 6 1" fill="none" stroke="#9b5e51" stroke-width="1.7" stroke-linecap="round"/>
+        </g>
+      </g>
+      <g class="slap-hand"><g transform="translate(155 42)"><path d="M42 27l-7-18q-3-7-8-4l4 14L18 2q-5-5-8 0l12 18L8 11q-7-4-9 2l19 15-14-3q-7-1-6 5l25 12q-10 4-7 9 9 6 25-4 9-8 1-20z" fill="#fff1d8" stroke="#251c22" stroke-width="3" stroke-linejoin="round"/><path d="M25 29l-11 6m13-14-9-4" stroke="#251c22" stroke-width="2"/></g></g><g class="spank-hand"><g transform="translate(153 170)"><path d="M42 27l-7-18q-3-7-8-4l4 14L18 2q-5-5-8 0l12 18L8 11q-7-4-9 2l19 15-14-3q-7-1-6 5l25 12q-10 4-7 9 9 6 25-4 9-8 1-20z" fill="#fff1d8" stroke="#251c22" stroke-width="3" stroke-linejoin="round"/><path d="M25 29l-11 6m13-14-9-4" stroke="#251c22" stroke-width="2"/></g></g><g class="slap-impact"><path d="M163 64l10-15 3 12 16-3-9 12 10 11-17-2-7 13-3-17-15 1z" fill="#e8fa87" stroke="#251c22" stroke-width="2"/><path d="M177 43l10-8m7 21 13-1m-8 22 12 6" stroke="#ff799c" stroke-width="3" stroke-linecap="round"/></g><g class="spank-impact"><path d="M163 187l9-16 4 12 16-4-8 12 11 10-17-1-6 14-4-17-14 3z" fill="#ffae80" stroke="#251c22" stroke-width="2"/></g>
+    </svg><svg x="378" y="100" width="210" height="260" transform="rotate(7 483 230)" viewBox="0 0 240 265" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+      <ellipse class="character-shadow" cx="120" cy="251" rx="58" ry="9" fill="#000" opacity=".2"/>
+      <g class="character-body">
+        <path d="M85 172h70l-3 39-5 33h-23l-4-42-4 42H93l-5-33z" fill="#414052" stroke="#201b22" stroke-width="3"/>
+        <path d="M120 183v20m-28-11 13 5m42-5-12 5" fill="none" stroke="#717083" stroke-width="2"/>
+        <path d="M93 240h23v11H82q-2-7 11-11m31 0h23q13 4 11 11h-34z" fill="#302029" stroke="#201b22" stroke-width="3"/>
+        <path d="M82 116q-18 20-20 48l-4 19q-1 11 8 12 9 0 10-12l4-18 13-25m65-24q18 20 20 48l4 19q1 11-8 12-9 0-10-12l-4-18-13-25" fill="#ffb9ab" stroke="#201b22" stroke-width="3" stroke-linecap="round"/>
+        <path class="shirt" d="M89 105q31-13 62 0l16 30-14 8 3 40q-36 13-72 0l3-40-14-8z" fill="#ff537c" stroke="#201b22" stroke-width="3"/>
+        <path d="M108 89v18q12 14 24 0V89" fill="#ffb9ab" stroke="#201b22" stroke-width="3"/>
+        <path d="M120 139c-16-17-27 6 0 20 27-14 16-37 0-20" fill="#e8fa87" stroke="#201b22" stroke-width="2.5"/>
+        <g class="character-head">
+          <path d="M76 58q-7-44 44-44t44 44l7 65q-12 11-26-4l-53 4q-19 8-24-5z" fill="#432738" stroke="#201b22" stroke-width="3"/>
+          <ellipse cx="78" cy="65" rx="8" ry="12" fill="#ffb9ab" stroke="#201b22" stroke-width="3"/>
+          <ellipse cx="162" cy="65" rx="8" ry="12" fill="#ffb9ab" stroke="#201b22" stroke-width="3"/>
+          <path d="M80 49q0-29 40-29t40 29v23q-3 28-40 34-37-6-40-34z" fill="#ffb9ab" stroke="#201b22" stroke-width="3"/>
+          <path d="M79 57q-9-32 14-40 16-12 31-4 28-4 35 18 6 11 3 28l-11-20q-23 4-35-12-11 21-37 30z" fill="#432738" stroke="#201b22" stroke-width="3"/>
+          <path d="M87 60l8 1m50 0 8-1" stroke="#251c22" stroke-width="2.5" stroke-linecap="round"/><circle cx="78" cy="80" r="4" fill="#e8fa87" stroke="#251c22" stroke-width="1.5"/><circle cx="162" cy="80" r="4" fill="#e8fa87" stroke="#251c22" stroke-width="1.5"/>
+          <path d="M91 51l13-3m32 0 13 3" fill="none" stroke="#432738" stroke-width="3" stroke-linecap="round"/>
+          <g class="character-eyes"><ellipse cx="99" cy="63" rx="3.5" ry="5" fill="#251c22"/><ellipse cx="141" cy="63" rx="3.5" ry="5" fill="#251c22"/></g>
+          <ellipse cx="90" cy="77" rx="8" ry="4" fill="#ed6379" opacity=".45"/><ellipse cx="150" cy="77" rx="8" ry="4" fill="#ed6379" opacity=".45"/>
+          <path d="M111 85q10 9 21-2" fill="none" stroke="#a94264" stroke-width="3" stroke-linecap="round"/>
+          <path d="M120 65l-3 9 6 1" fill="none" stroke="#9b5e51" stroke-width="1.7" stroke-linecap="round"/>
+        </g>
+      </g>
+      <g class="slap-hand"><g transform="translate(155 42)"><path d="M42 27l-7-18q-3-7-8-4l4 14L18 2q-5-5-8 0l12 18L8 11q-7-4-9 2l19 15-14-3q-7-1-6 5l25 12q-10 4-7 9 9 6 25-4 9-8 1-20z" fill="#fff1d8" stroke="#251c22" stroke-width="3" stroke-linejoin="round"/><path d="M25 29l-11 6m13-14-9-4" stroke="#251c22" stroke-width="2"/></g></g><g class="spank-hand"><g transform="translate(153 170)"><path d="M42 27l-7-18q-3-7-8-4l4 14L18 2q-5-5-8 0l12 18L8 11q-7-4-9 2l19 15-14-3q-7-1-6 5l25 12q-10 4-7 9 9 6 25-4 9-8 1-20z" fill="#fff1d8" stroke="#251c22" stroke-width="3" stroke-linejoin="round"/><path d="M25 29l-11 6m13-14-9-4" stroke="#251c22" stroke-width="2"/></g></g><g class="slap-impact"><path d="M163 64l10-15 3 12 16-3-9 12 10 11-17-2-7 13-3-17-15 1z" fill="#e8fa87" stroke="#251c22" stroke-width="2"/><path d="M177 43l10-8m7 21 13-1m-8 22 12 6" stroke="#ff799c" stroke-width="3" stroke-linecap="round"/></g><g class="spank-impact"><path d="M163 187l9-16 4 12 16-4-8 12 11 10-17-1-6 14-4-17-14 3z" fill="#ffae80" stroke="#251c22" stroke-width="2"/></g>
+    </svg><path d="M359 226c-49-42-70 21 0 58 70-37 49-100 0-58" fill="#ff799c"/><text x="360" y="375" text-anchor="middle" fill="#e8fa87" font-family="Georgia,serif" font-size="24" font-style="italic">A little love. A little friendly fire.</text><g fill="#e8fa87"><path d="m107 227 4 11 11 4-11 4-4 11-4-11-11-4 11-4z"/><path d="m613 146 4 11 11 4-11 4-4 11-4-11-11-4 11-4z"/></g></svg>

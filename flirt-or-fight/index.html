@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17151a">
+  <meta name="description" content="A little love. A little friendly fire. Your private online date night for two, wherever you are.">
+  <meta name="referrer" content="no-referrer">
+  <title>Flirt or Fight — Same room. Different cities.</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=1.1.0">
+<script defer src="game.min.js?v=1.1.0"></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Flirt or Fight home"><span id="logo"></span><span>flirt<span class="brand-or">or</span>fight<span class="brand-dot">.</span></span></a>
+      <div class="header-actions"><span class="header-note"><i></i> SAME ROOM. DIFFERENT CITIES.</span><button id="how-to" class="quiet-button">How to play <span>↗</span></button><button id="music-toggle" class="sound-button music-button" aria-label="Turn romantic music off" aria-pressed="true">♡ <span>Music on</span></button><button id="sound-toggle" class="sound-button" aria-label="Mute sound effects" aria-pressed="true">♫ <span>Sound on</span></button></div>
+    </header>
+    <main id="view"><div class="loading">Getting the good trouble ready…</div></main>
+    <footer class="site-footer"><span>A little love. A little friendly fire.</span><span>Just you two. <span class="footer-heart">♡</span> Made by Nipun.</span><span>18+ · Play nice. Mostly.</span></footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <div id="reaction-live" class="sr-only" role="status" aria-live="polite"></div>
+  <div id="effects-layer" class="effects-layer" aria-hidden="true"></div>
+  <section id="chat-shell" class="chat-shell" aria-label="Room chat" hidden>
+    <button id="chat-toggle" class="chat-launcher" aria-expanded="false" aria-controls="chat-panel">💬 <span>Just us</span><b id="chat-unread" hidden>0</b></button>
+    <aside id="chat-panel" class="chat-panel" aria-label="Temporary live chat" hidden>
+      <header class="chat-heading"><div><strong>Just us. ♡</strong><span>A little chitchat. Cleared when you leave.</span></div><button id="chat-close" class="text-button" aria-label="Close chat">×</button></header>
+      <div id="chat-messages" class="chat-messages" role="log" aria-label="Chat messages" aria-live="polite"></div>
+      <form id="chat-form" class="chat-compose"><label class="sr-only" for="chat-message">Your message</label><textarea id="chat-message" rows="2" maxlength="500" placeholder="Something between just us…" required></textarea><button id="chat-send" type="submit" aria-label="Send message">Send ↗</button></form>
+      <p id="chat-status" class="chat-status" role="status">Only in this room. No saved chat history.</p>
+    </aside>
+  </section>
+  <dialog id="help-dialog" aria-labelledby="help-title">
+    <button class="dialog-close" data-close-dialog aria-label="Close instructions">×</button><p class="eyebrow">TWO PLAYERS. ONE LITTLE SECRET.</p><h2 id="help-title">The rules of attraction.<br>And minor destruction.</h2>
+    <ol class="rules-list"><li><b>Invite your favorite person.</b><span>Choose your character, confirm you’re 18+, and share the invite. Your partner gets the other character, and the game starts when they join.</span></li><li><b>Make your secret move.</b><span>Pick an answer or write something sweet, cheeky, or devastatingly silly. Neither answer is revealed until both are locked.</span></li><li><b>Three, two, one… reveal.</b><span>Both answers open automatically after three seconds. Matching picks earn 2 sparks each. Other completed rounds earn 1 each. Vote on roast battles for bonus sparks.</span></li><li><b>Make a little scene.</b><span>Send hearts, kisses, hot reactions, curse words, peach spanks, or cartoon slaps. Either player can skip any unanswered card without losing points. Music and sound have separate toggles.</span></li></ol>
+    <p class="dialog-note">Keep the host’s tab open. The encrypted room uses a public connection relay; your invite is the key, so share it only with your partner. Answers stay in this tab’s memory and disappear when you leave.</p><button class="primary-button" data-close-dialog>Got it. Let’s cause trouble. <span>↗</span></button>
+  </dialog>
+  <dialog id="leave-dialog" aria-labelledby="leave-title"><p class="eyebrow">CALLING IT A NIGHT?</p><h2 id="leave-title">Leave your date?</h2><p>Your answers and progress will be cleared on this device. If you’re hosting, the room will close for both players.</p><div class="dialog-actions"><button class="secondary-button" data-close-dialog>Stay here</button><button id="confirm-leave" class="primary-button">Leave room</button></div></dialog>
+  <noscript>This game needs JavaScript enabled to connect two players.</noscript>
+</body>
+</html>
