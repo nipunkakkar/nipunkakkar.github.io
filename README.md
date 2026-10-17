@@ -8,7 +8,7 @@ A small homepage for Nipun’s published browser games.
 - **Meteor Dodge:** https://nipunkakkar.github.io/meteor-dodge/ — a solo space arcade with keyboard, mouse and touch controls.
 - **Chess Noir:** https://nipunkakkar.github.io/chess-noir/ — two-player chess with private online rooms, same-device play, animated moves and optional clocks.
 - **Minesweeper:** https://nipunkakkar.github.io/minesweeper-afterglow/ — a light take on the classic, with three difficulties, a Retro skin, sonar pulses, sounds and a blooming finish.
-- **Flirt or Fight (18+):** https://nipunkakkar.github.io/flirt-or-fight/ — a private online date night for two, with secret answers, roast battles, animated reactions, and romantic music.
+- **Flirt or Fight (18+):** https://nipunkakkar.github.io/flirt-or-fight/ — a private online date night for two, with secret answers, favorites and travel questions, animated reactions, and romantic music.
 
 The homepage contains HTML, CSS and original SVG artwork, with no runtime JavaScript, external fonts, analytics or accounts on the homepage itself. The `flirt-or-fight/` subdirectory contains that game’s minified browser release; its development repository is private. Its board previews were generated from the artwork in the Ludo Ladder repository. The space illustration and couple artwork are original vectors.
 
